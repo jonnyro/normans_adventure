@@ -1,0 +1,7 @@
+Development OS: Ubuntu 10.04
+
+
+sudo add-apt-repository ppa:ogre-team/ogre
+sudo apt-get update
+sudo apt-get install libogre-dev
+
